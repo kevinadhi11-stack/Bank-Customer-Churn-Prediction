@@ -66,7 +66,7 @@ python churn_prediction.py
 - Customers with **zero balance** show elevated churn risk
 - **3-4 products** customers churn more than those with 1-2 products
 
-### 📈 Result
+## 📈 Result
 
 ![Correlation Heatmap](plots/04_correlation_heatmap.png)
 
