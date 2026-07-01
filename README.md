@@ -67,6 +67,7 @@ python churn_prediction.py
 - **3-4 products** customers churn more than those with 1-2 products
 
 ### Result
+### Result
 ![Correlation Heatmap](04_correlation_heatmap.png)
 
 ### ROC Curve
@@ -74,7 +75,6 @@ python churn_prediction.py
 
 ### SHAP Beeswarm
 ![SHAP Beeswarm](10_shap_beeswarm.png)
-
 ## 👤 Author
 
 **Kevinz Adhi Anggoro**
