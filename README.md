@@ -73,7 +73,7 @@ python churn_prediction.py
 ![ROC Curve](05_roc_curve.png)
 
 ### SHAP Beeswarm
-![SHAP Beeswarm] (10_shap_beeswarm.png)
+![SHAP Beeswarm](10_shap_beeswarm.png)
 
 ## 👤 Author
 
