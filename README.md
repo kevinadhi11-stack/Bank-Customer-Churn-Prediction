@@ -66,10 +66,22 @@ python churn_prediction.py
 - Customers with **zero balance** show elevated churn risk
 - **3-4 products** customers churn more than those with 1-2 products
 
+### Result
+![Correlation Heatmap](04_correlation_heatmap.png)
+
+### ROC Curve
+![ROC Curve](05_roc_curve.png)
+
+### SHAP Beeswarm
+![SHAP Beeswarm] (10_shap_beeswarm.png)
+
 ## 👤 Author
 
 **Kevinz Adhi Anggoro**
 Data Science Bootcamp Graduate Batch 56 — Digital Skola
 
-📧 kevinadhi11@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/Kevinzadhi)
+## 📬Contact Me 
+If you have any questions, development suggestions, or collaboration opportunities, please feel free to contact me via:
+
+**LinkedIn:** [Kevinz Adhi Anggoro](https://linkedin.com/in/Kevinzadhi)
+**Email:** kevinadhi11@gmail.com
